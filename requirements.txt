@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+# Uncomment/add the ML libs you need:
+# torch
+# transformers
+# tensorflow
